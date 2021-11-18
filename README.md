@@ -14,7 +14,7 @@ In this thesis, we consider the problem of Markowitz Portfolio Optimization. It 
 
 The thesis is written on the Machine_Learning_Methods_for_Portfolio_Optimization.pdf file. It goes over theory, literature review and all our methodologies and models created. The rest of the files contain the code used to create and train our models:
 
- ###📄 48_Industry_Portfolios_Daily.csv 
+ ### 📄 48_Industry_Portfolios_Daily.csv 
  
  Contains our Dataset
 
