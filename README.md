@@ -14,24 +14,24 @@ In this thesis, we consider the problem of Markowitz Portfolio Optimization. It 
 
 The thesis is written on the Machine_Learning_Methods_for_Portfolio_Optimization.pdf file. It goes over theory, literature review and all our methodologies and models created. The rest of the files contain the code used to create and train our models:
 
- ### 📄 48_Industry_Portfolios_Daily.csv 
+ ###📄 48_Industry_Portfolios_Daily.csv 
  
  Contains our Dataset
 
- ### Functs.ipynb
+ ### :gear: Functs.ipynb
  
  Contains the basic functions of our problem.
  
- ### Proximal.ipynb
+ ### :gear: Proximal.ipynb
  Contains the Proximal Gradient Descent algorithms of our LASSO approach.
  
- ### GSSP.ipynb and PGMB.ipynb
+ ### :gear: GSSP.ipynb and PGMB.ipynb
  Contain the Projected Gradient Descent algorithms of the sparse-convex approach.
 
- ### LSTM.ipynb
+ ### :gear: LSTM.ipynb
  
  Creates the LSTM_Predictions.csv file. This file contains the predicted future values of our features. Each window of future values is calculated using an LSTM unit.
 
- ### ComparePortfolios.ipynb
+ ### :gear: ComparePortfolios.ipynb
  
  This file executes and compares all our models using the rest of the .ipynb and .csv files. It also contains the CVXpy and CVXpylayers algorithms.
